@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+ul li a {
+    text-decoration: none;
+    color: blue;
+    text-align: right;
+    font-size: 18px;
+  }
+  
+  li {
+    display: inline;
+    margin-left: 40px;
+    text-align: right;
+  }
+  
+  ul {
+    position: right;
+  }
